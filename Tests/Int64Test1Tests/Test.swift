@@ -11,5 +11,7 @@ import XCTest
 @testable import XCTTT
 
 class XCTTTTests: XCTestCase {
-    
+    func aaa {
+        
+    }
 }
