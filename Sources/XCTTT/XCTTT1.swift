@@ -8,7 +8,5 @@
 import Foundation
 
 class XCTTT1:String {
-    func tttest() {
-        print("")
-    }
+    
 }
